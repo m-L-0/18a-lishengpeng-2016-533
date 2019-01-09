@@ -1,2 +1,2 @@
 # 18a-lishengpeng-2016-533
-用于李胜鹏提交 TensorFlow 课程作业。
+用于李胜鹏提交 TensorFlow 课程作业和实训作业。
